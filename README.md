@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá! Eu sou a Milena Campos 💜
+# Olá! Eu sou a Milena Campos 
 
 ### Estudante de Sistemas de Informação
 
@@ -11,7 +11,7 @@ Aprendendo, explorando e construindo minha jornada na tecnologia.
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
 - 🎓 Graduanda em Sistemas de Informação.
 - 💻 Interessada em programação e tecnologia.
